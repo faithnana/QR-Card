@@ -23,8 +23,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add your GitHub code link here]
-- Live Site URL: [Add your GitHub Pages link here]
+- Solution URL: [Add your GitHub code link here](https://github.com/faithnana/QR-Card.git)
+- Live Site URL: [Add your GitHub Pages link here](https://faithnana.github.io/QR-Card/))
 
 ## My process
 
