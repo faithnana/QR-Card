@@ -19,7 +19,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Design preview](../1st-challenge-info/qr-code-component-main/qr-code-component-main/design/desktop-design.jpg)
+![Design preview](design/desktop-preview.jpg)
 
 ## Links
 
