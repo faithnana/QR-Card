@@ -19,7 +19,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Design preview](design/desktop-preview.jpg)
+![Design preview](desktop-design.jpg)
 
 ## Links
 
