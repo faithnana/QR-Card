@@ -19,8 +19,6 @@ Users should be able to:
 
 ## Screenshot
 
-![Design preview](desktop-design.jpg)
-
 ## Links
 
 - Solution URL: [Add your GitHub code link here](https://github.com/faithnana/QR-Card.git)
